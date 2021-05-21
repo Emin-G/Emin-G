@@ -1,4 +1,4 @@
-<img src="https://www.dropbox.com/s/xx91zc2387f29df/Logo%20Animated.gif?dl=1" width="100%">
+<img src="https://imgur.com/a1pedGx" width="100%">
 <img src="https://cdn.discordapp.com/attachments/807077862880444456/844988632804360312/alice_icon.png" width="10%">
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
