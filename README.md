@@ -1,4 +1,5 @@
 <img src="https://cdn.discordapp.com/attachments/807077862880444456/845106306389901322/Logo_Animated.gif" width="100%">
+
 <div align="center">
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -19,4 +20,5 @@
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </div>
-<h1>아 제로콜라 먹고 싶다</h1>
+
+<h1 align="center">아 제로콜라 먹고 싶다</h1>
