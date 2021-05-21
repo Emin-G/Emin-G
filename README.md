@@ -1,3 +1,9 @@
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/807077862880444456/845112815794389032/b0c80ddc143ca0d4c17c803f1a51e09a.gif" width="50%">
+</div>
+
+<h1 align="center">아 제로콜라 먹고 싶다</h1>
+
 <img src="https://cdn.discordapp.com/attachments/807077862880444456/845106306389901322/Logo_Animated.gif" width="100%">
 
 <div align="center">
@@ -20,9 +26,3 @@
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </div>
-
-<div align="center">
-<img src="https://cdn.discordapp.com/attachments/807077862880444456/845112815794389032/b0c80ddc143ca0d4c17c803f1a51e09a.gif" width="50%">
-</div>
-
-<h1 align="center">아 제로콜라 먹고 싶다</h1>
