@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/807077862880444456/845104859928854548/Logo_Animated.gif" width="100%">
+<img src="https://cdn.discordapp.com/attachments/807077862880444456/845106306389901322/Logo_Animated.gif" width="100%">
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/807077862880444456/844988632804360312/alice_icon.png" width="10%">
 </div>
