@@ -10,7 +10,7 @@
     <img src="https://cdn.discordapp.com/attachments/807077862880444456/884032065220276274/256px-Visual_Studio_Code_Insiders_1.png" alt="VScode" width="80" height="80"/>
   </a>
   
-  <h2 align="center">For the glory of VScode</h2>
+  <h2 align="center">🔥 For the glory of VScode 🔥</h2>
   
 </p>
 
@@ -67,6 +67,8 @@
 </p>
 
 <p align="center">
+  
+  <h2 align="center">🍷 Buy me a wine 🍷</h2>
   
   <a href="https://www.buymeacoffee.com/minGo">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="minGo" />
