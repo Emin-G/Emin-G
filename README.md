@@ -1,10 +1,12 @@
-<h1 align="center">아 제로콜라 먹고 싶다</h2>
+<h1 align="center">아 제로콜라 먹고 싶다</h1>
 
 <p align="center">
   
   <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://cdn.discordapp.com/attachments/807077862880444456/884032015106732052/1024px-Visual_Studio_Code_1.png" alt="VScode" width="80" height="80"/>
   </a>
+  
+  <h2 align="center">For the glory of VScode</h2>
   
   <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://cdn.discordapp.com/attachments/807077862880444456/884032065220276274/256px-Visual_Studio_Code_Insiders_1.png" alt="VScode" width="80" height="80"/>
