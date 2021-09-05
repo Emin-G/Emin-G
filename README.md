@@ -70,7 +70,7 @@
 
 <p align="center">
   
-  <a href="https://www.buymeacoffee.com/minGo">
+  <a href="https://www.buymeacoffee.com/min.G">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="minGo" />
   </a>
   
