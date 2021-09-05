@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<p aligh="center">
+<p align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
     
     <img src="https://cdn.discordapp.com/attachments/807077862880444456/884032294103445524/synthwave_option_3.png" alt="VScode" width="80" height="80"/>
