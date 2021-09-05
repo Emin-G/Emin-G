@@ -71,7 +71,11 @@
 <p align="center">
   
   <a href="https://www.buymeacoffee.com/min.G" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="minGo" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buymeacoffee" />
+  </a>
+  
+  <a href="http://ming-support.kro.kr" target="_blank">
+    <img src="https://cdn.discordapp.com/attachments/807077862880444456/884086839269531658/kkp_logo.jpg" height="50" width="50" alt="KakaoPay" />
   </a>
   
 </p>
