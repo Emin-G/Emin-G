@@ -7,10 +7,6 @@
     
   <img src="https://cdn.discordapp.com/attachments/807077862880444456/884032065220276274/256px-Visual_Studio_Code_Insiders_1.png" alt="VScode" width="80" height="80"/>
     
-  <img src="https://cdn.discordapp.com/attachments/807077862880444456/884030352409120788/41e562f0cec10aea72a028d6c6327caf_Microsoft_Visual_Studio_Code.png" alt="VScode" width="80" height="80"/>
-    
-  <img src="https://cdn.discordapp.com/attachments/807077862880444456/884032092164468756/visual-studio.png" alt="VScode" width="80" height="80"/>
-    
   <img src="https://cdn.discordapp.com/attachments/807077862880444456/884032294103445524/synthwave_option_3.png" alt="VScode" width="80" height="80"/>
     
   <img src="https://cdn.discordapp.com/attachments/807077862880444456/884032253720690698/dracula_option_3.png" alt="VScode" width="80" height="80"/>
