@@ -66,9 +66,9 @@
 
 </p>
 
+<h2 align="center">🍷 Buy me a wine 🍷</h2>
+
 <p align="center">
-  
-  <h2 align="center">🍷 Buy me a wine 🍷</h2>
   
   <a href="https://www.buymeacoffee.com/minGo">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="minGo" />
