@@ -78,4 +78,8 @@
     <img src="https://cdn.discordapp.com/attachments/807077862880444456/884086839269531658/kkp_logo.jpg" height="50" width="50" alt="KakaoPay" />
   </a>
   
+  <a href="https://toss.me/밍밍한밍밍" target="_blank">
+    <img src="https://cdn.discordapp.com/attachments/807077862880444456/946762159445135370/oPjTaNy7bQEoq8B7iMr7qbWfHuTGp3l4F5dfQ74YOwSf5Lxul9hUYS8nmIRiVVsUHfYc.png" height="50" width="50" alt="Toss" />
+  </a>
+  
 </p>
