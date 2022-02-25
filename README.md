@@ -74,10 +74,6 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buymeacoffee" />
   </a>
   
-  <a href="http://ming-support.kro.kr" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/807077862880444456/884086839269531658/kkp_logo.jpg" height="50" width="50" alt="KakaoPay" />
-  </a>
-  
   <a href="https://toss.me/밍밍한밍밍" target="_blank">
     <img src="https://cdn.discordapp.com/attachments/807077862880444456/946763590063513600/tossapp.png" height="50" width="50" alt="Toss" />
   </a>
