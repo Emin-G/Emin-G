@@ -1,74 +1,42 @@
-<h1 align="center">아 제로콜라 먹고 싶다</h1>
+<div align="center">
+  <img src="https://mingo-gitcontent.netlify.app/title.png" alt="Title" width="800">
+</div>
 
-<p align="center">
+<div align="center">
   
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/807077862880444456/884032015106732052/1024px-Visual_Studio_Code_1.png" alt="VScode" width="80" height="80"/>
+  <a href="https://www.w3schools.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="70">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/807077862880444456/884032065220276274/256px-Visual_Studio_Code_Insiders_1.png" alt="VScode" width="80" height="80"/>
+  &nbsp;
+  <a href="https://www.w3schools.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="70">
   </a>
-  
-  <h2 align="center">🔥 For the glory of VScode 🔥</h2>
-  
-</p>
-
-<p align="center">
-  
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/807077862880444456/884032294103445524/synthwave_option_3.png" alt="VScode" width="80" height="80"/>
+  &nbsp;
+  <a href="https://www.w3schools.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="70">
   </a>
-  
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/807077862880444456/884032253720690698/dracula_option_3.png" alt="VScode" width="80" height="80"/>
-  </a>
-    
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/807077862880444456/884032323648110612/synthwave_option_4.png" alt="VScode" width="80" height="80"/>
-  </a>
-    
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/807077862880444456/884032443370319912/default_insider_dark.png" alt="VScode" width="80" height="80"/>
-  </a>
-    
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/807077862880444456/884032347656306698/dracula_option_4.png" alt="VScode" width="80" height="80"/>
-  </a>
-  
-</p>
-
-<p align="center">
-  
+  &nbsp;
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://cdn.discordapp.com/attachments/807077862880444456/1082330692546994257/nodejs_logo.png" alt="nodejs" height="70">
   </a>
-  
-  <a href="https://www.electronjs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
-  </a>
-  
+  &nbsp;
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/807077862880444456/884030383040102410/vfndfnvlie.png" alt="express" width="40" height="40"/>
+    <img src="https://cdn.discordapp.com/attachments/807077862880444456/884030383040102410/vfndfnvlie.png" alt="express" height="70">
   </a>
-  
-  <a href="https://www.w3schools.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  &nbsp;
+  <a href="https://nginx.org/" target="_blank">
+    <img src="https://cdn.discordapp.com/attachments/807077862880444456/1082330689854263347/nginx_logo.png" alt="nginx" height="70">
   </a>
-    
-  <a href="https://www.w3schools.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.w3schools.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  &nbsp;
+  <a href="https://www.electronjs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" height="70">
   </a>
 
-</p>
+</div>
 
-<h2 align="center">🍷 Buy me a wine 🍷</h2>
+---
 
-<p align="center">
+<div align="center">
   
   <a href="https://www.buymeacoffee.com/min.G" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buymeacoffee" />
@@ -78,4 +46,4 @@
     <img src="https://cdn.discordapp.com/attachments/807077862880444456/946763590063513600/tossapp.png" height="50" width="50" alt="Toss" />
   </a>
   
-</p>
+</div>
