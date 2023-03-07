@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://mingo-gitcontent.netlify.app/title.png" alt="Title" width="700">
+  <img src="https://mingo-gitcontent.netlify.app/title.png" alt="Title" width="1000">
 </div>
 
 <div align="center">
