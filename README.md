@@ -34,16 +34,24 @@
 
 </div>
 
+&nbsp;
+
+<div align="center">
+  <a href="https://github.com/studio-Arite" target="_blank">
+    <img src="https://cdn.discordapp.com/attachments/807077862880444456/1083054169969143928/logo_new.png" alt="studio. Arite" height="70">
+  </a>
+</div>
+
 ---
 
 <div align="center">
   
   <a href="https://www.buymeacoffee.com/min.G" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buymeacoffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buymeacoffee">
   </a>
   
   <a href="https://toss.me/밍밍한밍밍" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/807077862880444456/946763590063513600/tossapp.png" height="50" width="50" alt="Toss" />
+    <img src="https://cdn.discordapp.com/attachments/807077862880444456/946763590063513600/tossapp.png" height="50" width="50" alt="Toss">
   </a>
   
 </div>
