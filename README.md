@@ -43,11 +43,3 @@
 </div>
 
 ---
-
-<div align="center">
-  
-  <a href="https://toss.me/밍밍한밍밍" target="_blank">
-    <img src="https://github.com/Emin-G/Img/blob/main/profile/toss_logo.png?raw=true" height="50" width="50" alt="Toss">
-  </a>
-  
-</div>
